@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Survey</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_id">Enter your user id: </string>
+    <string name="submit">Submit</string>
+    <string name="continue_button">Continue</string>
+    <string name="bookmark">Successfully bookmarked.</string>
+    <string name="desc_rating">\nBased on the title and description, how interested would you be in going to this attraction/place if you were visiting the city it is located in?</string>
+    <string name="title_activity_display_suggestion">DisplaySuggestion</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="title_activity_web_rating">WebRating</string>
+    <string name="web_button">View site</string>
+    <string name="title_activity_web_page">WebPage</string>
+    <string name="no_load_button">The webpage doesn\'t load.</string>
+    <string name="no_load_text">If the website doesn\'t load, answer all the questions below:</string>
+    <string name="title_activity_suggestion_list">SuggestionList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="like_button">Select</string>
+    <string name="title_activity_suggestion">Suggestion</string>
+    <string name="dialog_connection_error">Connection error.</string>
+    <string name="try_again">Reload Data</string>
+    <string name="title_activity_display_context">DisplayContext</string>
+    <string name="title_activity_finish">Finish</string>
+
+</resources>

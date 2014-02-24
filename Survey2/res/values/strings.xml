@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Survey2</string>
+    <string name="action_settings">Settings</string>
+    <string name="web_button">View Site</string>
+    <string name="title_activity_user_id">UserId</string>
+    <string name="userid_textview">Enter the user id:</string>
+    <string name="userid_edittext">User id:</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_activity_context">Context</string>
+    <string name="continue_button">Continue</string>
+    <string name="like_button">Select</string>
+    <string name="bookmark">Successfully bookmarked.</string>
+    <string name="title_activity_finish">Finish</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dialog_connection_error">Connection error.</string>
+	<string name="try_again">Reload Data</string>
+
+</resources>

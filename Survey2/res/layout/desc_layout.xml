@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:id="@+id/descText"
+    	android:textSize="15sp" />
+    <Button
+        android:id="@+id/webButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/descText"
+        android:layout_alignParentLeft="true"
+        android:text="@string/web_button"
+        android:onClick="onWebButtonClick" />
+    <Button
+        android:id="@+id/likeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/like_button"
+        android:layout_below="@id/descText"
+        android:layout_alignParentRight="true"
+        android:onClick="onLikeButtonClick" />
+    
+
+</RelativeLayout>
